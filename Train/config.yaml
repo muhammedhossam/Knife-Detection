@@ -1,0 +1,9 @@
+
+path: /kaggle/input/knife-data/datasets/datasets
+train: images/train
+val: images/val
+
+nc: 1
+
+# Classes
+names: ["Knife"]
